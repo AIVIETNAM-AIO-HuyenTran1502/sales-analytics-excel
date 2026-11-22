@@ -1,0 +1,17 @@
+# Excel / Office temp files
+~$*.xlsx
+~$*.xls
+~$*.docx
+~$*.pptx
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Du lieu goc day du - khong dua len repo (xem data/README.md)
+data/raw/
+data/full/
+*.csv.gz
+*.zip
